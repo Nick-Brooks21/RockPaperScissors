@@ -6,6 +6,7 @@ public class Game {
 	private String player1;
 	private String computerPlayer;
 	private String winner;
+	private String loser;
 	
 	public Game() {
 		super();
